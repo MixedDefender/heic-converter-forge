@@ -26,4 +26,4 @@ Grab the latest release from the download link above.
 3. **Batch Processing:** Automate repetitive tasks across hundreds of images with custom presets.
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.   
+> This project is shared as-is. All product names and logos belong to their respective owners.    
